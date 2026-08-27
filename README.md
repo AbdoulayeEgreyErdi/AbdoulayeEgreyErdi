@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Abdoulaye Egrey Erdi</h1>
-<h3 align="center">Software Engineer | Junior Data Analyst | Full-Stack Developer</h3>
+<h3 align="center">Software Engineering Student | Junior Data Analyst | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdoulayeEgreyErdi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,21 +7,13 @@
 
 👨‍💻 About Me
 
-🎓 Bachelor of Science in Software Engineering candidate at UNILAK, Kigali
+I'm a Software Engineering student at UNILAK who enjoys turning ideas into useful applications. I'm from Chad and currently live in Kigali, Rwanda.
 
-📚 Coursework completed; two module results await upload, internship is ongoing, and final project defence is pending
+Right now, I'm completing an internship at EdTech Solutions Ltd and preparing for my final project defence. During my internship, I work with databases and build web applications using tools such as React, Node.js, XAMPP and MySQL.
 
-💼 Software Engineering Intern at EdTech Solutions Ltd
+I'm also developing my data-analysis skills in Excel, SQL, Power BI and Python. I enjoy learning by building projects and solving practical problems.
 
-🌍 From Chad and currently based in Kigali, Rwanda
-
-📊 Interested in data analysis, SQL, Excel, databases and visualization
-
-🌱 Currently strengthening my skills in Excel, SQL, Power BI and Python
-
-💬 Ask me about React, Node.js, Java, Spring Boot, PostgreSQL and MySQL
-
-📫 Reach me at abdoulayeegrey14@gmail.com
+📫 Email: abdoulayeegrey14@gmail.com
 
 🗣️ Languages: Arabic, French and English
 
@@ -52,34 +43,29 @@ Tools and Platforms
 
 ANATS Digital Government Platform
 
-A digital public-service platform designed for citizens in Chad and the diaspora. It supports identity-document applications, document uploads, appointment booking, payments and application tracking.
+My final-year project, inspired by the difficulties Chadian citizens and the diaspora face when accessing public services. Users can apply for documents, upload supporting files, book appointments and follow their applications online.
 
 Technologies: React, TypeScript, Spring Boot, PostgreSQL and Docker
 
 EdTech Employee API
 
-A REST API for registering, retrieving and deleting employee records, with password hashing and MySQL database integration.
+A backend project I built while practising Node.js and databases. It can register, retrieve and delete employee records, and it securely hashes user passwords.
 
 Technologies: Node.js, Express, MySQL and bcrypt
 
 EduChad Management System
 
-A multi-tenant school and university management platform for institutions in Chad, covering admissions, attendance, fees, examinations and reporting.
+A school-management platform designed for institutions in Chad. The idea is to bring admissions, attendance, fees, examinations and reports together in one system.
 
 Technologies: PHP, MySQL, JavaScript and Bootstrap
 
 Study Planner Mobile App
 
-A multilingual study-planning application with task management, reminders, statistics, search and dark mode.
+A mobile app that helps students organise their studies using tasks, reminders, search and progress statistics. It also supports multiple languages and dark mode.
 
 Technologies: Flutter and Dart
 
 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdoulayeEgreyErdi&show_icons=true&theme=github_dark&hide_border=true" alt="Abdoulaye's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoulayeEgreyErdi&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AbdoulayeEgreyErdi&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
@@ -94,17 +80,3 @@ Technologies: Flutter and Dart
 </p>
 
 <p align="center"><i>Building practical digital solutions for communities, businesses and public services.</i></p>
-<!--
-**AbdoulayeEgreyErdi/AbdoulayeEgreyErdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
