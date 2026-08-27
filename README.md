@@ -7,11 +7,11 @@
 
 👨‍💻 About Me
 
-I'm a Software Engineering candidate at UNILAK who enjoys turning ideas into useful applications. I'm from Chad and currently live in Kigali, Rwanda.
+I’m a software developer and Software Engineering candidate at UNILAK. I’m originally from Chad and currently based in Kigali, Rwanda. I enjoy turning ideas into practical applications that solve real problems.
 
-Right now, I'm completing an internship at EdTech Solutions Ltd and preparing for my final project defence. During my internship, I work with databases and build web applications using tools such as React, Node.js, XAMPP and MySQL.
+I’m currently completing a software engineering internship at EdTech Solutions Ltd, where I work with databases and build web applications using React, Node.js, XAMPP and MySQL. I’m also preparing for my final project defence.
 
-I'm also developing my data-analysis skills in Excel, SQL, Power BI and Python. I enjoy learning by building projects and solving practical problems.
+Alongside software development, I’m strengthening my data-analysis skills in Excel, SQL, Power BI and Python. I learn best by building projects, exploring new tools and solving practical problems.
 
 📫 Email: abdoulayeegrey14@gmail.com
 
