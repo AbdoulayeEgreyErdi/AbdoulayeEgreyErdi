@@ -7,7 +7,7 @@
 
 👨‍💻 About Me
 
-I'm a Software Engineering student at UNILAK who enjoys turning ideas into useful applications. I'm from Chad and currently live in Kigali, Rwanda.
+I'm a Software Engineering candidate at UNILAK who enjoys turning ideas into useful applications. I'm from Chad and currently live in Kigali, Rwanda.
 
 Right now, I'm completing an internship at EdTech Solutions Ltd and preparing for my final project defence. During my internship, I work with databases and build web applications using tools such as React, Node.js, XAMPP and MySQL.
 
